@@ -57,7 +57,7 @@
 }
 
 .first-page {
-  background-image: url(../images/ddd.jpg);
+  background-image: url(../Images/ddd.jpg);
   width: 100%;
   height: 100vh;
 }
@@ -495,7 +495,7 @@
 .sixth-section {
   width: 100%;
   height: 50vh;
-  background-image: url(../images/eee.jpeg);
+  background-image: url(../Images/eee.jpeg);
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -658,7 +658,7 @@
 .eights-section {
   width: 100%;
   height: 50vh;
-  background-image: url(../images/course-3.jpg);
+  background-image: url(../Images/course-3.jpg);
   background-attachment: fixed;
   background-size: cover;
   position: relative;
